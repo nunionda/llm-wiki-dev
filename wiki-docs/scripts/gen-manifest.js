@@ -47,7 +47,7 @@ function generateManifest() {
         title: title,
         category: category,
         workspace: 'llm-wiki-dev',
-        path: `/workspaces/llm-wiki-dev/pages/${file}`,
+        path: `/workspaces/llm-wiki-dev/wiki/pages/${file}`,
         fileName: file,
       });
     });
@@ -64,7 +64,7 @@ function generateManifest() {
         title: `RAW: ${file.replace('.md', '').toUpperCase()}`,
         category: 'research',
         workspace: 'llm-wiki-dev',
-        path: `/workspaces/llm-wiki-dev/raw/${file}`,
+        path: `/workspaces/llm-wiki-dev/wiki/raw/${file}`,
         fileName: file,
       });
     });
@@ -79,10 +79,22 @@ function generateManifest() {
         title: file.replace('.md', '').toUpperCase(),
         category: 'meta',
         workspace: 'llm-wiki-dev',
-        path: `/workspaces/llm-wiki-dev/${file}`,
+        path: `/workspaces/llm-wiki-dev/wiki/${file}`,
         fileName: file,
         isRoot: true,
       });
+    } else if (fs.existsSync(path.join(WIKI_DIR, '..', file))) {
+        // Handle files in project root
+        manifest.pages.push({
+            id: `llm-wiki-dev-${file.replace('.md', '')}`,
+            originalId: file.replace('.md', ''),
+            title: file.replace('.md', '').toUpperCase(),
+            category: 'meta',
+            workspace: 'llm-wiki-dev',
+            path: `/workspaces/llm-wiki-dev/${file}`,
+            fileName: file,
+            isRoot: true,
+        });
     }
   });
 

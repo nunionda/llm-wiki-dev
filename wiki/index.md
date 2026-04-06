@@ -5,7 +5,7 @@
 ## knowledge-base
 - [[agentic-strategy]] | **Agentic Strategy** (_0 links_)
 - [[commercial-blueprint]] | **Commercial Blueprint** (_0 links_)
-- [[kb-architecture]] | **Knowledge Base Architecture** (_0 links_)
+- [[kb-architecture]] | **Knowledge Base Architecture** (_2 links_)
 
 ## "technical"
 - [[atomic-ingestion-engine]] | **Atomic Ingestion Engine** (_0 links_)

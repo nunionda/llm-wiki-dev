@@ -31,6 +31,10 @@ Not all knowledge is created equal.
 - **Hybrid Review (Medium Gravity)**: Strategic changes that impact the business roadmap require a human Architect's approval.
 - **Manual Lock (High Gravity)**: Core organizational charters and security protocols that must never be modified by AI.
 
+## 4. Technical Foundations
+- **Ingestion**: The [[Atomic Ingestion Engine]] handles fragmented data input.
+- **Modularity**: Every node adheres to the [[pillar-atomicity]] standard for maximum semantic clarity.
+
 ---
 
 > [!TIP]

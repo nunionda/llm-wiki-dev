@@ -189,6 +189,24 @@ const DocViewer = ({ doc, onBack }) => {
     </div>
   );
 
+  if (!doc) return (
+    <div className="flex-1 flex flex-col items-center justify-center bg-nordic-white h-screen p-12 text-center">
+       <div className="w-24 h-24 bg-rose-50 rounded-[32px] flex items-center justify-center mb-8 border border-rose-100 shadow-sm">
+          <AlertCircle className="w-10 h-10 text-rose-500" />
+       </div>
+       <h1 className="text-2xl font-display font-extrabold text-nordic-charcoal mb-4">Knowledge Node Not Found</h1>
+       <p className="text-sm text-nordic-charcoal/60 max-w-md leading-relaxed mb-8">
+         The strategic knowledge node you are looking for does not exist in the current manifest or has been archived.
+       </p>
+       <button 
+         onClick={() => navigate('/')}
+         className="px-8 py-4 bg-nordic-charcoal text-white rounded-2xl font-bold text-xs uppercase tracking-widest hover:bg-nordic-charcoal/90 transition-all flex items-center gap-2"
+       >
+         <ArrowLeft className="w-4 h-4" /> Back to Dashboard
+       </button>
+    </div>
+  );
+
   return (
     <motion.div 
       initial={{ opacity: 0, y: 20 }}
@@ -245,7 +263,7 @@ const DocViewer = ({ doc, onBack }) => {
                         key={i}
                         onClick={() => {
                           const targetId = result.path.split('/').pop().replace('.md', '');
-                          navigate(`/doc/${targetId}`);
+                          navigate(`/${targetId}`);
                           setIsSearchOpen(false);
                           setSearchQuery('');
                           setSearchResults([]);
@@ -378,7 +396,7 @@ const DocViewer = ({ doc, onBack }) => {
                       
                       return (
                         <button 
-                          onClick={() => !isBroken && navigate(`/doc/${pageId}`)} 
+                          onClick={() => !isBroken && navigate(`/${pageId}`)} 
                           className={`font-bold transition-all ${isBroken ? 'text-rose-400 border-b-2 border-dotted border-rose-300 cursor-help' : 'text-nordic-blue hover:underline decoration-nordic-mint/50'}`}
                           title={isBroken ? `Broken link: Page '${pageId}' does not exist.` : `Navigate to ${pageId}`}
                         >

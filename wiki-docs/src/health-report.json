@@ -8,7 +8,7 @@
       "desc": "Broken links & structural issues"
     },
     "balance": {
-      "score": 68,
+      "score": 69,
       "weight": 25,
       "label": "Balance",
       "desc": "Theme distribution evenness"
@@ -27,5 +27,5 @@
     }
   },
   "grade": "A",
-  "lastUpdated": "2026-04-06T00:19:22.599Z"
+  "lastUpdated": "2026-04-06T05:46:06.216Z"
 }
