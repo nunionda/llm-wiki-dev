@@ -1,0 +1,9 @@
+{
+  "run_id": "eval-0-with_skill",
+  "expectations": [
+    { "text": "Follows 5-step response structure", "passed": true, "evidence": "Analysis includes all 5 required sections." },
+    { "text": "Uses LaTeX for mathematical rigor", "passed": true, "evidence": "LaTeX blocks used for ATT, DiD formulas." },
+    { "text": "Includes actionable business recommendations", "passed": true, "evidence": "Specific ROI ($3.4M ARR) and navigation pattern changes cited." },
+    { "text": "Explicitly addresses Causal Inference", "passed": true, "evidence": "Causal Impact and E[Y|do(X)] explicitly modeled." }
+  ]
+}

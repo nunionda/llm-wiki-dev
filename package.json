@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.82.0",
+    "@google/generative-ai": "^0.24.1",
+    "chokidar": "^5.0.0",
+    "dotenv": "^17.4.1",
+    "openai": "^6.33.0",
+    "pptxgenjs": "^4.0.1"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.3.1",
+    "@tobilu/qmd": "^2.0.1"
+  }
+}

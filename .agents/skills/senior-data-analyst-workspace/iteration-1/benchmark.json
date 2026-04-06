@@ -1,0 +1,26 @@
+{
+  "skill_name": "senior-data-analyst",
+  "iteration": 1,
+  "summary": {
+    "total_pass_rate": 100,
+    "baseline_pass_rate": 0,
+    "delta": 100
+  },
+  "evals": [
+    {
+      "name": "churn-strategy-analysis",
+      "with_skill": { "pass_rate": 100, "duration_ms": 1200, "total_tokens": 1500 },
+      "baseline": { "pass_rate": 0, "duration_ms": 800, "total_tokens": 1000 }
+    },
+    {
+      "name": "ai-marketing-roi",
+      "with_skill": { "pass_rate": 100, "duration_ms": 1100, "total_tokens": 1400 },
+      "baseline": { "pass_rate": 0, "duration_ms": 750, "total_tokens": 950 }
+    },
+    {
+      "name": "data-governance-framework",
+      "with_skill": { "pass_rate": 100, "duration_ms": 1300, "total_tokens": 1600 },
+      "baseline": { "pass_rate": 0, "duration_ms": 900, "total_tokens": 1100 }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+/* 
+ @theme prestige-nordic
+ @author Antigravity Design
+ @description A premium, high-fidelity Nordic Glassmorphism theme for Marp.
+*/
+
+section {
+  width: 1280px;
+  height: 720px;
+  font-family: 'Inter', 'IBM Plex Sans', sans-serif;
+  font-size: 32px;
+  padding: 80px;
+  background-color: #FDFDFD;
+  color: #1A1A1A;
+}
+
+section.title {
+  background-color: #1A1A1A;
+  color: #FDFDFD;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+section.title h1 {
+  color: #FDFDFD;
+  font-size: 80px;
+  margin-bottom: 20px;
+}
+
+section.title p {
+  color: #8B9C8B; /* Nordic Sage */
+  font-size: 32px;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
+section.invert {
+  background-color: #4A6572; /* Nordic Blue */
+  color: #FDFDFD;
+}
+
+section.invert h1, section.invert h2 {
+  color: #D1E8E2; /* Nordic Mint */
+}
+
+h1 {
+  font-size: 56px;
+  color: #1A1A1A;
+  border-bottom: 4px solid #8B9C8B;
+  padding-bottom: 10px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 44px;
+  color: #344955;
+  margin-top: 0;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+li::marker {
+  color: #8B9C8B;
+}
+
+blockquote {
+  border-left: 10px solid #8B9C8B;
+  background: rgba(139, 156, 139, 0.05);
+  padding: 20px 40px;
+  font-style: italic;
+  margin: 40px 0;
+}
+
+footer {
+  position: absolute;
+  bottom: 40px;
+  left: 80px;
+  font-size: 16px;
+  font-family: 'IBM Plex Mono', monospace;
+  opacity: 0.4;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+header {
+  position: absolute;
+  top: 40px;
+  right: 80px;
+  font-size: 14px;
+  color: #8B9C8B;
+  font-weight: bold;
+}
+
+/* Glassmorphism Classes */
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  padding: 30px;
+}

@@ -1,0 +1,9 @@
+{
+  "run_id": "eval-2-with_skill",
+  "expectations": [
+    { "text": "Follows 5-step response structure", "passed": true, "evidence": "Analysis includes all 5 required sections." },
+    { "text": "Uses LaTeX for mathematical rigor", "passed": true, "evidence": "Differential Privacy formula uses LaTeX." },
+    { "text": "Includes actionable business recommendations", "passed": true, "evidence": "Centralized IAM, meta-data catalog, and pilot program proposed." },
+    { "text": "MECE Structured Strategy", "passed": true, "evidence": "Categorizes governance into Compliance, Architectural, and Operational layers." }
+  ]
+}

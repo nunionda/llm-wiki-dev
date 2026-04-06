@@ -1,0 +1,9 @@
+{
+  "run_id": "eval-2-without_skill",
+  "expectations": [
+    { "text": "Follows 5-step response structure", "passed": false, "evidence": "General conversational response." },
+    { "text": "Uses LaTeX for mathematical rigor", "passed": false, "evidence": "No LaTeX math blocks found." },
+    { "text": "Includes actionable business recommendations", "passed": false, "evidence": "General advice (identity management, monitor), missing concrete pilot logic." },
+    { "text": "MECE Structured Strategy", "passed": false, "evidence": "Loose bullet points." }
+  ]
+}

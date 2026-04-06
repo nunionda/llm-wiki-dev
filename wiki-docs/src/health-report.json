@@ -1,0 +1,31 @@
+{
+  "composite": 92,
+  "dimensions": {
+    "integrity": {
+      "score": 100,
+      "weight": 30,
+      "label": "Integrity",
+      "desc": "Broken links & structural issues"
+    },
+    "balance": {
+      "score": 68,
+      "weight": 25,
+      "label": "Balance",
+      "desc": "Theme distribution evenness"
+    },
+    "freshness": {
+      "score": 100,
+      "weight": 25,
+      "label": "Freshness",
+      "desc": "Content recency"
+    },
+    "connectivity": {
+      "score": 100,
+      "weight": 20,
+      "label": "Connectivity",
+      "desc": "Inter-node link density"
+    }
+  },
+  "grade": "A",
+  "lastUpdated": "2026-04-06T00:19:22.599Z"
+}

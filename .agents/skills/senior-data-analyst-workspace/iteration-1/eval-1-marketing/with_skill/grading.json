@@ -1,0 +1,9 @@
+{
+  "run_id": "eval-1-with_skill",
+  "expectations": [
+    { "text": "Follows 5-step response structure", "passed": true, "evidence": "Analysis includes all 5 required sections." },
+    { "text": "Uses LaTeX for mathematical rigor", "passed": true, "evidence": "LaTeX used for STS and counterfactual formulas." },
+    { "text": "Includes actionable business recommendations", "passed": true, "evidence": "Specific city-tier spend reallocation and CTR insights cited." },
+    { "text": "Explicitly addresses Causal Inference", "passed": true, "evidence": "Incrementality analysis and counterfactuals explicitly modeled." }
+  ]
+}

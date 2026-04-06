@@ -1,0 +1,9 @@
+{
+  "run_id": "eval-1-without_skill",
+  "expectations": [
+    { "text": "Follows 5-step response structure", "passed": false, "evidence": "General conversational response." },
+    { "text": "Uses LaTeX for mathematical rigor", "passed": false, "evidence": "No LaTeX math blocks found." },
+    { "text": "Includes actionable business recommendations", "passed": false, "evidence": "General ROI discussion, missing specific reallocation logic." },
+    { "text": "Explicitly addresses Causal Inference", "passed": false, "evidence": "Missing E[Y|do(X)] analysis framework." }
+  ]
+}

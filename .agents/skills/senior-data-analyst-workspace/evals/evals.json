@@ -1,0 +1,26 @@
+{
+  "skill_name": "senior-data-analyst",
+  "evals": [
+    {
+      "id": 0,
+      "name": "churn-strategy-analysis",
+      "prompt": "Analyze our Q4 enterprise customer churn data and design a retention strategy for the executive board. We've seen a 5% increase in churn among our top-tier clients. Use causal inference to determine if this is linked to the recent UI overhaul.",
+      "expected_output": "A detailed strategy including business purpose, data refinement, causal inference modeling (LaTeX), risk analysis, and actionable recommendations. Should avoid correlations and focus on causality.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "ai-marketing-roi",
+      "prompt": "Evaluate the ROI of our new AI-driven marketing campaign. We spent $2M and saw a revenue lift of $5M. Is this lift truly attributable to the campaign, or would it have happened anyway? Provide a technical analysis suitable for the CFO.",
+      "expected_output": "Analysis using E[Y|do(X)] to separate campaign effects from organic growth. Must include LaTeX and executive-level storytelling.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "data-governance-framework",
+      "prompt": "Design a data governance framework for our multi-cloud enterprise environment (AWS/Azure/GCP). We need to ensure GDPR compliance while allowing for high-velocity data analysis via LLM agents. How do we balance fairness with speed?",
+      "expected_output": "A structured (MECE) framework covering architecture, compliance, and speed. Should include specifics on data lakes and agentic oversight.",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+The Autonomous Persistent Wiki is more than a database; it is a self-curating organic knowledge bank. Unlike traditional RAG (Retrieval-Augmented Generation), this system does not just retrieve; it accumulates. 
+
+Core Pillars:
+1. Persistence - Knowledge exists as human-readable markdown, not just vector embeddings. 
+2. Atomicity - Every insight is a standalone, linked node. 
+3. Self-Healing - The agent constantly audits and repairs broken links. 
+4. Scalability - A single research paper can be deconstructed into 10-15 atomic pages automatically. 
+
+The primary user role shifts from 'writer' to 'architect'. The human defines the scope and sources, while the AI manages the cross-linking and consistency. This reduces the 'bookkeeping tax' of wiki maintenance to near-zero.

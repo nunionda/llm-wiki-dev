@@ -1,0 +1,701 @@
+{
+  "nodes": [
+    {
+      "id": "agentic-strategy",
+      "title": "Agentic Strategy",
+      "category": "knowledge-base"
+    },
+    {
+      "id": "atomic-ingestion-engine",
+      "title": "Atomic Ingestion Engine",
+      "category": "\"technical\""
+    },
+    {
+      "id": "autonomous-dispatch",
+      "title": "Autonomous Knowledge Dispatch",
+      "category": "\"strategy\""
+    },
+    {
+      "id": "budget-estimation",
+      "title": "Budget Estimation: Agentic Wiki Stage 1",
+      "category": "business-strategy"
+    },
+    {
+      "id": "business-idea",
+      "title": "Business Idea: Agentic Wiki",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "commercial-blueprint",
+      "title": "Commercial Blueprint",
+      "category": "knowledge-base"
+    },
+    {
+      "id": "critic-style-comparative",
+      "title": "Critic Style Comparative",
+      "category": "analysis"
+    },
+    {
+      "id": "evolving-thesis",
+      "title": "Evolving Thesis: AI Safety",
+      "category": "research"
+    },
+    {
+      "id": "field-reports",
+      "title": "Field Reports (Consolidated)",
+      "category": "business"
+    },
+    {
+      "id": "film-critic-thesis",
+      "title": "Film Critic Thesis",
+      "category": "research"
+    },
+    {
+      "id": "global-strategy-matrix",
+      "title": "Global Strategy Matrix",
+      "category": "meta"
+    },
+    {
+      "id": "infrastructure-strategy",
+      "title": "Infrastructure Strategy",
+      "category": "infrastructure"
+    },
+    {
+      "id": "internal-intelligence",
+      "title": "Internal Intelligence: Project Alpha",
+      "category": "business"
+    },
+    {
+      "id": "kb-architecture",
+      "title": "Knowledge Base Architecture",
+      "category": "knowledge-base"
+    },
+    {
+      "id": "knowledge-architect-role",
+      "title": "The Role of Knowledge Architect",
+      "category": "\"general\""
+    },
+    {
+      "id": "literary-gateway",
+      "title": "Literary Gateway: Tolkien",
+      "category": "reading"
+    },
+    {
+      "id": "llm-wiki-pattern",
+      "title": "LLM Wiki Pattern",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "operational-delivery-runbook",
+      "title": "Operational Delivery Runbook",
+      "category": "infrastructure"
+    },
+    {
+      "id": "parasite-analysis-ldj",
+      "title": "기생충: 상징의 [[명징한 직조]] (Case Study: Lee Dong-jin)",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "persistent-knowledge-matrix",
+      "title": "Persistent Knowledge Matrix",
+      "category": "\"meta\""
+    },
+    {
+      "id": "personal-growth-journal",
+      "title": "Personal Growth Journal",
+      "category": "personal"
+    },
+    {
+      "id": "pillar-atomicity",
+      "title": "Knowledge Pillar: Atomicity",
+      "category": "\"technical\""
+    },
+    {
+      "id": "pillar-persistence",
+      "title": "Knowledge Pillar: Persistence",
+      "category": "\"strategy\""
+    },
+    {
+      "id": "pillar-scalability",
+      "title": "Knowledge Pillar: Scalability",
+      "category": "\"strategy\""
+    },
+    {
+      "id": "pillar-self-healing",
+      "title": "Knowledge Pillar: Self-Healing",
+      "category": "\"meta\""
+    },
+    {
+      "id": "sales-assets",
+      "title": "Sales & Pitch Assets",
+      "category": "assets"
+    },
+    {
+      "id": "sample-integration-node",
+      "title": "Sample Integration Node",
+      "category": "test"
+    },
+    {
+      "id": "self-actualization",
+      "title": "Self-Actualization Journal",
+      "category": "personal"
+    },
+    {
+      "id": "technical-lexicon",
+      "title": "Technical Lexicon",
+      "category": "reference"
+    },
+    {
+      "id": "tips-and-tooling",
+      "title": "tips-and-tooling",
+      "category": "Uncategorized"
+    },
+    {
+      "id": "wiki-vs-rag-accumulation",
+      "title": "Wiki vs RAG Accumulation",
+      "category": "\"research\""
+    },
+    {
+      "id": "zero-cost-bookkeeping",
+      "title": "Zero-Cost Bookkeeping",
+      "category": "\"meta\""
+    },
+    {
+      "id": "냄새",
+      "title": "냄새 (Scent)",
+      "category": "analysis"
+    },
+    {
+      "id": "명징한-직조",
+      "title": "명징한 직조 (Clear Weaving)",
+      "category": "analysis"
+    },
+    {
+      "id": "수석",
+      "title": "수석 (Scholar Stone)",
+      "category": "analysis"
+    },
+    {
+      "id": "수직성",
+      "title": "수직성 (Verticality)",
+      "category": "analysis"
+    }
+  ],
+  "links": [
+    {
+      "source": "critic-style-comparative",
+      "target": "film-critic-thesis",
+      "value": 1
+    },
+    {
+      "source": "critic-style-comparative",
+      "target": "technical-lexicon",
+      "value": 1
+    },
+    {
+      "source": "film-critic-thesis",
+      "target": "evolving-thesis",
+      "value": 1
+    },
+    {
+      "source": "film-critic-thesis",
+      "target": "technical-lexicon",
+      "value": 1
+    },
+    {
+      "source": "film-critic-thesis",
+      "target": "명징한-직조",
+      "value": 1
+    },
+    {
+      "source": "film-critic-thesis",
+      "target": "수직성",
+      "value": 1
+    },
+    {
+      "source": "film-critic-thesis",
+      "target": "critic-style-comparative",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "budget-estimation",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "commercial-blueprint",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "infrastructure-strategy",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "kb-architecture",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "sample-integration-node",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "agentic-strategy",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "autonomous-dispatch",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "budget-estimation",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "business-idea",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "commercial-blueprint",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "critic-style-comparative",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "evolving-thesis",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "field-reports",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "film-critic-thesis",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "infrastructure-strategy",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "kb-architecture",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "literary-gateway",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "llm-wiki-pattern",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "operational-delivery-runbook",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "personal-growth-journal",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "pillar-persistence",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "pillar-scalability",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "sales-assets",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "sample-integration-node",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "self-actualization",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "tips-and-tooling",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "agentic-strategy",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "autonomous-dispatch",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "budget-estimation",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "commercial-blueprint",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "operational-delivery-runbook",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "personal-growth-journal",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "pillar-self-healing",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "sales-assets",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "tips-and-tooling",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "zero-cost-bookkeeping",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "business-idea",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "literary-gateway",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "operational-delivery-runbook",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "personal-growth-journal",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "self-actualization",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "agentic-strategy",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "autonomous-dispatch",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "budget-estimation",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "business-idea",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "commercial-blueprint",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "evolving-thesis",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "field-reports",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "film-critic-thesis",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "infrastructure-strategy",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "internal-intelligence",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "kb-architecture",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "knowledge-architect-role",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "literary-gateway",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "llm-wiki-pattern",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "operational-delivery-runbook",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "persistent-knowledge-matrix",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "personal-growth-journal",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "pillar-persistence",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "pillar-scalability",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "sales-assets",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "sample-integration-node",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "self-actualization",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "tips-and-tooling",
+      "value": 1
+    },
+    {
+      "source": "global-strategy-matrix",
+      "target": "wiki-vs-rag-accumulation",
+      "value": 1
+    },
+    {
+      "source": "operational-delivery-runbook",
+      "target": "autonomous-dispatch",
+      "value": 1
+    },
+    {
+      "source": "parasite-analysis-ldj",
+      "target": "명징한-직조",
+      "value": 1
+    },
+    {
+      "source": "parasite-analysis-ldj",
+      "target": "명징한-직조",
+      "value": 1
+    },
+    {
+      "source": "parasite-analysis-ldj",
+      "target": "수직성",
+      "value": 1
+    },
+    {
+      "source": "parasite-analysis-ldj",
+      "target": "냄새",
+      "value": 1
+    },
+    {
+      "source": "parasite-analysis-ldj",
+      "target": "냄새",
+      "value": 1
+    },
+    {
+      "source": "parasite-analysis-ldj",
+      "target": "수석",
+      "value": 1
+    },
+    {
+      "source": "parasite-analysis-ldj",
+      "target": "film-critic-thesis",
+      "value": 1
+    },
+    {
+      "source": "parasite-analysis-ldj",
+      "target": "technical-lexicon",
+      "value": 1
+    },
+    {
+      "source": "parasite-analysis-ldj",
+      "target": "critic-style-comparative",
+      "value": 1
+    },
+    {
+      "source": "personal-growth-journal",
+      "target": "literary-gateway",
+      "value": 1
+    },
+    {
+      "source": "sales-assets",
+      "target": "commercial-blueprint",
+      "value": 1
+    },
+    {
+      "source": "sales-assets",
+      "target": "kb-architecture",
+      "value": 1
+    },
+    {
+      "source": "sales-assets",
+      "target": "commercial-blueprint",
+      "value": 1
+    },
+    {
+      "source": "sample-integration-node",
+      "target": "agentic-strategy",
+      "value": 1
+    },
+    {
+      "source": "sample-integration-node",
+      "target": "commercial-blueprint",
+      "value": 1
+    },
+    {
+      "source": "sample-integration-node",
+      "target": "global-strategy-matrix",
+      "value": 1
+    },
+    {
+      "source": "technical-lexicon",
+      "target": "수직성",
+      "value": 1
+    },
+    {
+      "source": "technical-lexicon",
+      "target": "명징한-직조",
+      "value": 1
+    },
+    {
+      "source": "technical-lexicon",
+      "target": "film-critic-thesis",
+      "value": 1
+    },
+    {
+      "source": "technical-lexicon",
+      "target": "parasite-analysis-ldj",
+      "value": 1
+    },
+    {
+      "source": "냄새",
+      "target": "수직성",
+      "value": 1
+    },
+    {
+      "source": "냄새",
+      "target": "parasite-analysis-ldj",
+      "value": 1
+    },
+    {
+      "source": "명징한-직조",
+      "target": "수직성",
+      "value": 1
+    },
+    {
+      "source": "명징한-직조",
+      "target": "film-critic-thesis",
+      "value": 1
+    },
+    {
+      "source": "명징한-직조",
+      "target": "parasite-analysis-ldj",
+      "value": 1
+    },
+    {
+      "source": "수석",
+      "target": "명징한-직조",
+      "value": 1
+    },
+    {
+      "source": "수석",
+      "target": "parasite-analysis-ldj",
+      "value": 1
+    },
+    {
+      "source": "수직성",
+      "target": "명징한-직조",
+      "value": 1
+    },
+    {
+      "source": "수직성",
+      "target": "parasite-analysis-ldj",
+      "value": 1
+    },
+    {
+      "source": "수직성",
+      "target": "film-critic-thesis",
+      "value": 1
+    }
+  ]
+}

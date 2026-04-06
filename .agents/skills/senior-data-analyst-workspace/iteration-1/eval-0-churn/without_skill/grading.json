@@ -1,0 +1,9 @@
+{
+  "run_id": "eval-0-without_skill",
+  "expectations": [
+    { "text": "Follows 5-step response structure", "passed": false, "evidence": "General conversational response. Missing systematic veteran structure." },
+    { "text": "Uses LaTeX for mathematical rigor", "passed": false, "evidence": "No LaTeX math blocks found." },
+    { "text": "Includes actionable business recommendations", "passed": false, "evidence": "General suggestions (e.g., 'interview some customers') rather than concrete revenue/retention figures." },
+    { "text": "Explicitly addresses Causal Inference", "passed": false, "evidence": "Missing E[Y|do(X)] analysis framework." }
+  ]
+}
