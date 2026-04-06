@@ -6,7 +6,7 @@
       "title": "Agentic Strategy",
       "category": "knowledge-base",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/agentic-strategy.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/agentic-strategy.md",
       "fileName": "agentic-strategy.md"
     },
     {
@@ -15,7 +15,7 @@
       "title": "Atomic Ingestion Engine",
       "category": "technical",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/atomic-ingestion-engine.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/atomic-ingestion-engine.md",
       "fileName": "atomic-ingestion-engine.md"
     },
     {
@@ -24,7 +24,7 @@
       "title": "Autonomous Knowledge Dispatch",
       "category": "strategy",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/autonomous-dispatch.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/autonomous-dispatch.md",
       "fileName": "autonomous-dispatch.md"
     },
     {
@@ -33,7 +33,7 @@
       "title": "Budget Estimation",
       "category": "business-strategy",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/budget-estimation.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/budget-estimation.md",
       "fileName": "budget-estimation.md"
     },
     {
@@ -42,7 +42,7 @@
       "title": "Business Idea",
       "category": "general",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/business-idea.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/business-idea.md",
       "fileName": "business-idea.md"
     },
     {
@@ -51,7 +51,7 @@
       "title": "Commercial Blueprint",
       "category": "knowledge-base",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/commercial-blueprint.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/commercial-blueprint.md",
       "fileName": "commercial-blueprint.md"
     },
     {
@@ -60,7 +60,7 @@
       "title": "Critic Style Comparative",
       "category": "analysis",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/critic-style-comparative.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/critic-style-comparative.md",
       "fileName": "critic-style-comparative.md"
     },
     {
@@ -69,7 +69,7 @@
       "title": "Evolving Thesis",
       "category": "research",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/evolving-thesis.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/evolving-thesis.md",
       "fileName": "evolving-thesis.md"
     },
     {
@@ -78,7 +78,7 @@
       "title": "Field Reports (Consolidated)",
       "category": "business",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/field-reports.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/field-reports.md",
       "fileName": "field-reports.md"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Film Critic Thesis",
       "category": "research",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/film-critic-thesis.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/film-critic-thesis.md",
       "fileName": "film-critic-thesis.md"
     },
     {
@@ -96,7 +96,7 @@
       "title": "Global Strategy Matrix",
       "category": "meta",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/global-strategy-matrix.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/global-strategy-matrix.md",
       "fileName": "global-strategy-matrix.md"
     },
     {
@@ -105,7 +105,7 @@
       "title": "Infrastructure Strategy",
       "category": "infrastructure",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/infrastructure-strategy.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/infrastructure-strategy.md",
       "fileName": "infrastructure-strategy.md"
     },
     {
@@ -114,7 +114,7 @@
       "title": "Internal Intelligence",
       "category": "business",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/internal-intelligence.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/internal-intelligence.md",
       "fileName": "internal-intelligence.md"
     },
     {
@@ -123,7 +123,7 @@
       "title": "Knowledge Base Architecture",
       "category": "knowledge-base",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/kb-architecture.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/kb-architecture.md",
       "fileName": "kb-architecture.md"
     },
     {
@@ -132,7 +132,7 @@
       "title": "The Role of Knowledge Architect",
       "category": "general",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/knowledge-architect-role.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/knowledge-architect-role.md",
       "fileName": "knowledge-architect-role.md"
     },
     {
@@ -141,7 +141,7 @@
       "title": "Literary Gateway",
       "category": "reading",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/literary-gateway.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/literary-gateway.md",
       "fileName": "literary-gateway.md"
     },
     {
@@ -150,7 +150,7 @@
       "title": "LLM Wiki Pattern",
       "category": "general",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/llm-wiki-pattern.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/llm-wiki-pattern.md",
       "fileName": "llm-wiki-pattern.md"
     },
     {
@@ -159,7 +159,7 @@
       "title": "Operational Delivery Runbook",
       "category": "infrastructure",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/operational-delivery-runbook.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/operational-delivery-runbook.md",
       "fileName": "operational-delivery-runbook.md"
     },
     {
@@ -168,7 +168,7 @@
       "title": "기생충",
       "category": "general",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/parasite-analysis-ldj.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/parasite-analysis-ldj.md",
       "fileName": "parasite-analysis-ldj.md"
     },
     {
@@ -177,7 +177,7 @@
       "title": "Persistent Knowledge Matrix",
       "category": "meta",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/persistent-knowledge-matrix.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/persistent-knowledge-matrix.md",
       "fileName": "persistent-knowledge-matrix.md"
     },
     {
@@ -186,7 +186,7 @@
       "title": "Personal Growth Journal",
       "category": "personal",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/personal-growth-journal.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/personal-growth-journal.md",
       "fileName": "personal-growth-journal.md"
     },
     {
@@ -195,7 +195,7 @@
       "title": "Knowledge Pillar",
       "category": "technical",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/pillar-atomicity.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/pillar-atomicity.md",
       "fileName": "pillar-atomicity.md"
     },
     {
@@ -204,7 +204,7 @@
       "title": "Knowledge Pillar",
       "category": "strategy",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/pillar-persistence.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/pillar-persistence.md",
       "fileName": "pillar-persistence.md"
     },
     {
@@ -213,7 +213,7 @@
       "title": "Knowledge Pillar",
       "category": "strategy",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/pillar-scalability.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/pillar-scalability.md",
       "fileName": "pillar-scalability.md"
     },
     {
@@ -222,7 +222,7 @@
       "title": "Knowledge Pillar",
       "category": "meta",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/pillar-self-healing.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/pillar-self-healing.md",
       "fileName": "pillar-self-healing.md"
     },
     {
@@ -231,7 +231,7 @@
       "title": "Sales & Pitch Assets",
       "category": "assets",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/sales-assets.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/sales-assets.md",
       "fileName": "sales-assets.md"
     },
     {
@@ -240,7 +240,7 @@
       "title": "Sample Integration Node",
       "category": "test",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/sample-integration-node.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/sample-integration-node.md",
       "fileName": "sample-integration-node.md"
     },
     {
@@ -249,7 +249,7 @@
       "title": "Self-Actualization Journal",
       "category": "personal",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/self-actualization.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/self-actualization.md",
       "fileName": "self-actualization.md"
     },
     {
@@ -258,7 +258,7 @@
       "title": "Technical Lexicon",
       "category": "reference",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/technical-lexicon.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/technical-lexicon.md",
       "fileName": "technical-lexicon.md"
     },
     {
@@ -267,7 +267,7 @@
       "title": "tips-and-tooling",
       "category": "general",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/tips-and-tooling.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/tips-and-tooling.md",
       "fileName": "tips-and-tooling.md"
     },
     {
@@ -276,7 +276,7 @@
       "title": "Wiki vs RAG Accumulation",
       "category": "research",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/wiki-vs-rag-accumulation.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/wiki-vs-rag-accumulation.md",
       "fileName": "wiki-vs-rag-accumulation.md"
     },
     {
@@ -285,7 +285,7 @@
       "title": "Zero-Cost Bookkeeping",
       "category": "meta",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/zero-cost-bookkeeping.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/zero-cost-bookkeeping.md",
       "fileName": "zero-cost-bookkeeping.md"
     },
     {
@@ -294,7 +294,7 @@
       "title": "냄새 (Scent)",
       "category": "analysis",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/냄새.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/냄새.md",
       "fileName": "냄새.md"
     },
     {
@@ -303,7 +303,7 @@
       "title": "명징한 직조 (Clear Weaving)",
       "category": "analysis",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/명징한-직조.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/명징한-직조.md",
       "fileName": "명징한-직조.md"
     },
     {
@@ -312,7 +312,7 @@
       "title": "수석 (Scholar Stone)",
       "category": "analysis",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/수석.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/수석.md",
       "fileName": "수석.md"
     },
     {
@@ -321,7 +321,7 @@
       "title": "수직성 (Verticality)",
       "category": "analysis",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/pages/수직성.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/pages/수직성.md",
       "fileName": "수직성.md"
     },
     {
@@ -330,7 +330,7 @@
       "title": "RAW: AGENTIC_STRATEGY",
       "category": "research",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/raw/agentic_strategy.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/raw/agentic_strategy.md",
       "fileName": "agentic_strategy.md"
     },
     {
@@ -339,7 +339,7 @@
       "title": "RAW: BUSINESS_THREADS",
       "category": "research",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/raw/business_threads.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/raw/business_threads.md",
       "fileName": "business_threads.md"
     },
     {
@@ -348,7 +348,7 @@
       "title": "RAW: GSTACK_ANALYSIS_VIBE",
       "category": "research",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/raw/gstack_analysis_vibe.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/raw/gstack_analysis_vibe.md",
       "fileName": "gstack_analysis_vibe.md"
     },
     {
@@ -357,7 +357,7 @@
       "title": "RAW: PERSONAL_HEALTH",
       "category": "research",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/raw/personal_health.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/raw/personal_health.md",
       "fileName": "personal_health.md"
     },
     {
@@ -366,7 +366,7 @@
       "title": "RAW: READING_THOUGHTS",
       "category": "research",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/raw/reading_thoughts.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/raw/reading_thoughts.md",
       "fileName": "reading_thoughts.md"
     },
     {
@@ -375,7 +375,7 @@
       "title": "RAW: RESEARCH_NOTES",
       "category": "research",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/raw/research_notes.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/raw/research_notes.md",
       "fileName": "research_notes.md"
     },
     {
@@ -384,7 +384,7 @@
       "title": "RAW: VISION_CONTRADICTION",
       "category": "research",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/raw/vision_contradiction.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/raw/vision_contradiction.md",
       "fileName": "vision_contradiction.md"
     },
     {
@@ -393,7 +393,7 @@
       "title": "WIKI_SCHEMA",
       "category": "meta",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/WIKI_SCHEMA.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/WIKI_SCHEMA.md",
       "fileName": "WIKI_SCHEMA.md",
       "isRoot": true
     },
@@ -403,7 +403,7 @@
       "title": "INDEX",
       "category": "meta",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/index.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/index.md",
       "fileName": "index.md",
       "isRoot": true
     },
@@ -413,7 +413,7 @@
       "title": "LOG",
       "category": "meta",
       "workspace": "llm-wiki-dev",
-      "path": "/workspaces/llm-wiki-dev/log.md",
+      "path": "/workspaces/llm-wiki-dev/wiki/log.md",
       "fileName": "log.md",
       "isRoot": true
     }
@@ -424,5 +424,5 @@
       "source": "wiki"
     }
   ],
-  "lastUpdated": "2026-04-06T04:56:18.579Z"
+  "lastUpdated": "2026-04-06T05:45:46.936Z"
 }

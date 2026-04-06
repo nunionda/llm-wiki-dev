@@ -32,7 +32,10 @@ function App() {
   const isTimeline = location.pathname === '/timeline';
   
   const findPageByPath = (path) => {
-    const slug = path.substring(1).toLowerCase();
+    let slug = path.substring(1).toLowerCase();
+    // Handle /doc/ prefix fallback
+    if (slug.startsWith('doc/')) slug = slug.substring(4);
+    
     if (!slug) return manifestData.pages.find(p => p.originalId === 'index');
     return manifestData.pages.find(p => p.id.toLowerCase() === slug) || 
            manifestData.pages.find(p => p.originalId === slug);

@@ -543,6 +543,16 @@
       "value": 1
     },
     {
+      "source": "kb-architecture",
+      "target": "atomic-ingestion-engine",
+      "value": 1
+    },
+    {
+      "source": "kb-architecture",
+      "target": "pillar-atomicity",
+      "value": 1
+    },
+    {
       "source": "operational-delivery-runbook",
       "target": "autonomous-dispatch",
       "value": 1
